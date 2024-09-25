@@ -1,4 +1,4 @@
 import streamlit as st
 
 
-st.title("Team Schmidt Homesite!")
+st.title("Team Schmidt")
